@@ -1,0 +1,9 @@
+{
+	"name": "df-spotify-pratham",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9878c96c-f44f-4ac9-8d26-425a63619ec6",
+		"tenantId": "1ac1d772-a18c-40e8-9fb3-15e5af85333c"
+	}
+}
